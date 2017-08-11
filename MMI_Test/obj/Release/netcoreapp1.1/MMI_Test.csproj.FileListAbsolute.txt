@@ -1,0 +1,8 @@
+C:\Users\tester\documents\visual studio 2017\Projects\MMI_Test\MMI_Test\bin\Release\netcoreapp1.1\MMI_Test.deps.json
+C:\Users\tester\documents\visual studio 2017\Projects\MMI_Test\MMI_Test\bin\Release\netcoreapp1.1\MMI_Test.runtimeconfig.json
+C:\Users\tester\documents\visual studio 2017\Projects\MMI_Test\MMI_Test\bin\Release\netcoreapp1.1\MMI_Test.runtimeconfig.dev.json
+C:\Users\tester\documents\visual studio 2017\Projects\MMI_Test\MMI_Test\bin\Release\netcoreapp1.1\MMI_Test.dll
+C:\Users\tester\documents\visual studio 2017\Projects\MMI_Test\MMI_Test\bin\Release\netcoreapp1.1\MMI_Test.pdb
+C:\Users\tester\documents\visual studio 2017\Projects\MMI_Test\MMI_Test\obj\Release\netcoreapp1.1\MMI_Test.AssemblyInfo.cs
+C:\Users\tester\documents\visual studio 2017\Projects\MMI_Test\MMI_Test\obj\Release\netcoreapp1.1\MMI_Test.dll
+C:\Users\tester\documents\visual studio 2017\Projects\MMI_Test\MMI_Test\obj\Release\netcoreapp1.1\MMI_Test.pdb
